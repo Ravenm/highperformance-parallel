@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/hw2.dir/hw2/AndrewNashParallelH2.c.o  -o hw2.exe -Wl,--out-implib,libhw2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

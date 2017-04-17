@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/workspace/perf/hw2/hw2/AndrewNashParallelH2.c
+mpi.h
+-
+stdio.h
+-
+
+/cygdrive/e/workspace/perf/hw2/hw2/AndrewNashSerialH2.c
+stdio.h
+-
+
+/cygdrive/e/workspace/perf/hw2/hw2/andrewnashhw1.c
+mpi.h
+-
+stdio.h
+-
+filesystem
+-
+
